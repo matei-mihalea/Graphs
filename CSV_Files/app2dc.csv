@@ -1,0 +1,16 @@
+T_id,Dc_Name,App_Name
+CCPE_Hungary,ccpe_hu_fdc1,IPFE VNFC Record #0000031779
+CCPE_Hungary,ccpe_hu_fdc1,NAT VNFC Record #0000031721
+CCPE_Hungary,ccpe_hu_fdc1,SFC VNFC Record #0000031750
+CCPE_Hungary,ccpe_hu_fdc1,vSRX VNFC Record #0000031952
+CCPE_Hungary,ccpe_hu_fdc2,IPFE VNFC Record #0000031734
+CCPE_Hungary,ccpe_hu_fdc2,NAT VNFC Record #0000031792
+CCPE_Hungary,ccpe_hu_fdc2,SFC VNFC Record #0000031764
+CCPE_Croatia,ccpe_hr_fdc1,IPFE VNFC Record #0000052672
+CCPE_Croatia,ccpe_hr_fdc1,NAT VNFC Record #0000052658
+CCPE_Croatia,ccpe_hr_fdc1,SFC VNFC Record #0000052687
+CCPE_Croatia,ccpe_hr_fdc1,vSRX VNFC Record #0000052860
+CCPE_Croatia,ccpe_hr_fdc2,IPFE VNFC Record #0000052732
+CCPE_Croatia,ccpe_hr_fdc2,NAT VNFC Record #0000052746
+CCPE_Croatia,ccpe_hr_fdc2,SFC VNFC Record #0000052761
+

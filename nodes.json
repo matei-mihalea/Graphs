@@ -1,6 +1,6 @@
 {
   "nodes" : [ 
-    {"id": 1, "label": "Node 1", "color": "#ffff00", "title": "Node 1!", "link":"https://www.google.com"},
+    {"id": 1, "title": "Node 1!", "link":"https://www.google.com", "label": "Node 1", "color": "#ffff00"},
     {"id": 2, "label": "Node 2", "color": "#ff0000", "title": "Node 1!", "link":"https://www.google.com"},
     {"id": 3, "label": "Node 3", "color": "#0000ff", "title": "Node 1!", "link":"https://www.google.com"},
     {"id": 4, "label": "Node 4", "color": "#00ff00", "title": "Node 1!", "link":"https://www.google.com"},

@@ -1,20 +1,20 @@
 {
   "nodes" : [ 
-    {"id": 1, "label": "Node 1", "title": "Node 1!", "link":"https://www.google.com", "color": "#ffff00"},
-    {"id": 2, "label": "Node 2", "title": "Node 2!", "link":"https://www.github.com", "color": "#ff0000"},
-    {"id": 3, "label": "Node 3", "title": "Node 3!", "link":"https://www.gmail.com", "color": "#0000ff"},
-    {"id": 4, "label": "Node 4", "title": "Node 4!", "link":"https://www.stackoverflow.com", "color": "#00ff00"},
-    {"id": 5, "label": "Node 5", "title": "Node 5!", "link":"http://www.visjs.org", "color": "#ffa500"},
-    {"id": 6, "label": "Node 6", "title": "Node 6!", "link":"http://www.wikipedia.org", "color": "#800080"},
-    {"id": 7, "label": "Node 7", "title": "Node 7!", "link":"http://www.youtube.com", "color": "#ace1af"}
+    {"id": 0, "label": "Node 1", "title": "Node 1!", "link":"https://www.google.com", "color": "#ffff00"},
+    {"id": 1, "label": "Node 2", "title": "Node 2!", "link":"https://www.github.com", "color": "#ff0000"},
+    {"id": 2, "label": "Node 3", "title": "Node 3!", "link":"https://www.gmail.com", "color": "#0000ff"},
+    {"id": 3, "label": "Node 4", "title": "Node 4!", "link":"https://www.stackoverflow.com", "color": "#00ff00"},
+    {"id": 4, "label": "Node 5", "title": "Node 5!", "link":"http://www.visjs.org", "color": "#ffa500"},
+    {"id": 5, "label": "Node 6", "title": "Node 6!", "link":"http://www.wikipedia.org", "color": "#800080"},
+    {"id": 6, "label": "Node 7", "title": "Node 7!", "link":"http://www.youtube.com", "color": "#ace1af"}
 	
   ],
   "edges" :[ 
+    {"from": 0, "to": 2},
+    {"from": 0, "to": 1},
     {"from": 1, "to": 3},
-    {"from": 1, "to": 2},
-    {"from": 2, "to": 4},
-    {"from": 2, "to": 5},
-    {"from": 2, "to": 6},
-    {"from": 2, "to": 7}
+    {"from": 1, "to": 4},
+    {"from": 1, "to": 5},
+    {"from": 1, "to": 6}
   ]
 }

@@ -5,7 +5,7 @@
     {"id": 3, "label": "Node 3", "title": "Node 3!", "link":"https://www.gmail.com", "color": "#e04141"},
     {"id": 4, "label": "Node 4", "title": "Node 4!", "link":"https://www.stackoverflow.com", "color": "#e04141"},
     {"id": 5, "label": "Node 5", "title": "Node 5!", "link":"http://www.visjs.org", "color": "#e04141"},
-    {"id": 6, "label": "Node 6", "title": "Node 6!", "link":"http://www.wikipedia.com", "color": "#e04141"},
+    {"id": 6, "label": "Node 6", "title": "Node 6!", "link":"http://www.wikipedia.org", "color": "#e04141"},
     {"id": 7, "label": "Node 7", "title": "Node 7!", "link":"http://www.youtube.com", "color": "#e04141"}
   ],
   "edges" :[ 

@@ -27,7 +27,7 @@
     {"id": 25, "label": "active", "color": "#b2beb5", "title": "Node 25!", "vm_state": "active", "project_name": "ccpe_hu_fdc1", "cloud_id": "IC-HUBUDB1", "availabilityzone_name": "EXT", "discovery_log_id": "1610", "vcpu": "0", "tenant_id": "ae958e80eee5422f922acfe5632a71fb", "id2": "294200", "guest_id": "0c63dc77-34a8-4631-97d1-2152801420f2", "vmem": "0", "snapshot": "10/26/2018 4:05", "host_name": "bud0b1a-cmp1cz3602wnrj-hu.bud0b1-hu.ic.pan-net.eu", "power_state": "Running", "vdisk": "0", "task_state": "", "name": "NAT9151291773951267448"},
     {"id": 26, "label": "active", "color": "#b2beb5", "title": "Node 26!", "vm_state": "active", "project_name": "ccpe_hu_fdc2", "cloud_id": "IC-HUBUDB1", "availabilityzone_name": "EXT", "discovery_log_id": "1610", "vcpu": "0", "tenant_id": "4d198d74f05d41c8a2f710227793bd75", "id2": "294208", "guest_id": "2df58e0a-7678-466a-bdda-46d876196421", "vmem": "0", "snapshot": "10/26/2018 4:05", "host_name": "bud0b1b-cmp2cz3602wnr1-hu.bud0b1-hu.ic.pan-net.eu", "power_state": "Running", "vdisk": "0", "task_state": "", "name": "SFC9151291773951267456"},
     {"id": 27, "label": "active", "color": "#b2beb5", "title": "Node 27!", "vm_state": "active", "project_name": "ccpe_hu_fdc2", "cloud_id": "IC-HUBUDB1", "availabilityzone_name": "EXT", "discovery_log_id": "1610", "vcpu": "0", "tenant_id": "4d198d74f05d41c8a2f710227793bd75", "id2": "294209", "guest_id": "d21801e1-28d2-4422-9b05-c4b02c282ae1", "vmem": "0", "snapshot": "10/26/2018 4:05", "host_name": "bud0b1b-cmp2cz3602wnpl-hu.bud0b1-hu.ic.pan-net.eu", "power_state": "Running", "vdisk": "0", "task_state": "", "name": "IPFE9151291773951267462"},
-    {"id": 28, "label": "active", "color": "#b2beb5", "title": "Node 28!", "vm_state": "active", "project_name": "ccpe_hu_fdc2", "cloud_id": "IC-HUBUDB1", "availabilityzone_name": "EXT", "discovery_log_id": "1610", "vcpu": "0", "tenant_id": "4d198d74f05d41c8a2f710227793bd75", "id2": "294210", "guest_id": "7d9a1814-a583-4506-afb1-173e92df9b74", "vmem": "0", "snapshot": "10/26/2018 4:05", "host_name": "bud0b1b-cmp2cz3602wnr1-hu.bud0b1-hu.ic.pan-net.eu", "power_state": "Running", "vdisk": "0", "task_state": "", "name": "NAT9151291773951267449"},
+    {"id": 28, "label": "active", "color": "#b2beb5", "title": "Node 28!", "vm_state": "active", "project_name": "ccpe_hu_fdc2", "cloud_id": "IC-HUBUDB1", "availabilityzone_name": "EXT", "discovery_log_id": "1610", "vcpu": "0", "tenant_id": "4d198d74f05d41c8a2f710227793bd75", "id2": "294210", "guest_id": "7d9a1814-a583-4506-afb1-173e92df9b74", "vmem": "0", "snapshot": "10/26/2018 4:05", "host_name": "bud0b1b-cmp2cz3602wnr1-hu.bud0b1-hu.ic.pan-net.eu", "power_state": "Running", "vdisk": "0", "task_state": "", "name": "NAT9151291773951267449"}
   ],
 
   "edges" : [
@@ -56,6 +56,6 @@
     {"from" : 6, "to": 18},
     {"from" : 7, "to": 19},
     {"from" : 7, "to": 20},
-    {"from" : 7, "to": 21},
+    {"from" : 7, "to": 21}
   ] 
 }
